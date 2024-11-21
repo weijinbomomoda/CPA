@@ -1,0 +1,14 @@
+{
+    "data_dir": "/mnt/wjb/dataset/Project_CPA/work_dir/train/CPA/train",
+    "csv_dir": "/mnt/wjb/dataset/Project_CPA/work_dir/train/CPA/info",
+    "n_splits": 3,
+    "num_epochs": 50,
+    "fold": 0,
+    "mode": "cover",
+    "test_mode": "continue",
+    "lr": 0.0001,
+    "batch_size": 64,
+    "cls": 2,
+    "num_workers": 8,
+    "test_path": "/mnt/wjb/dataset/Project_CPA/work_dir/train/CPA/test"
+}
