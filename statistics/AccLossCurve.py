@@ -1,6 +1,5 @@
 import matplotlib.pyplot as plt
 from math import log, exp
-import random
 
 data = pd.read_excel(r'ACC_VAL_S1.xlsx', sheet_name=0, header=None)
 train_data = np.array(data)  # np.ndarray()
