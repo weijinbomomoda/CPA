@@ -1,5 +1,6 @@
 import matplotlib.pyplot as plt
 import numpy as np
+import pandas as pd
 
 plt.rcParams['font.sans-serif'] = ['Microsoft YaHei']
 # 解决图像中的'-'负号的乱码问题
