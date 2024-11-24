@@ -1,5 +1,7 @@
 #导入相关库
 import matplotlib.pyplot as plt    #导入matplotlib的绘图模块
+import numpy as np
+import pandas as pd
 
 labels = ['L/5', '2L/5', '3L/5', '4L/5', 'L']
 x = range(len(labels))
